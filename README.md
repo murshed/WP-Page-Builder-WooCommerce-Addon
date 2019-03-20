@@ -1,4 +1,4 @@
-# WP-Page-Builder-WooCommerce-Addon
+# WP Page Builder WooCommerce Addon
 ![WP Page Builder WooCommerce Addon](https://ps.w.org/wp-page-builder-woocommerce-addon/assets/banner-772x250.png?rev=2054256)
 
 
