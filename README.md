@@ -5,3 +5,4 @@
 WP Page Builder has no built in WooComerce addon. This is simple WP Page Builder addon for WooComerce. Feel free to use and make beautiful shop site.
 
 Get the latest version: https://wordpress.org/plugins/wp-page-builder-woocommerce-addon/
+Download WP Page Builder: https://wordpress.org/plugins/wp-pagebuilder/
